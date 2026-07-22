@@ -18,7 +18,6 @@
 
 ## 👩‍💻 About Me
 
-> [!NOTE]
 > B.Tech CSE student passionate about Web Development and Data Analytics. I love crafting clean, responsive UI layouts and analyzing data to build practical solutions.
 
 * 🌐 **Frontend Focus:** HTML5, CSS3, JavaScript
