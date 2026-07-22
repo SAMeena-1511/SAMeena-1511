@@ -3,7 +3,7 @@
 # Hi there! I'm Shamina Shaik 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E5282&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Frontend+Developer;Data+Analytics+Enthusiast;Passionate+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=yellow&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Frontend+Developer;Data+Analytics+Enthusiast;Passionate+Learner" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Tools
 
 ### **Frontend & Web Development**
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
@@ -39,7 +39,7 @@
 </p>
 
 ### **Programming Languages**
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -48,10 +48,10 @@
 </p>
 
 ### **Tools & Workflow**
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt=" github " width="45" height="45"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
