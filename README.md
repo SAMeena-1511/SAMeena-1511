@@ -29,7 +29,7 @@
 
 ## 🛠️ Languages & Tools
 
-### **Frontend & Web Development**
+###                  **Frontend & Web Development**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   &nbsp;&nbsp;
