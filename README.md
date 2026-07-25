@@ -95,7 +95,7 @@ HTML • CSS • JavaScript • C • Git • GitHub • VS Code
 ---
 
 # ✨ Featured Projects
-# ✨ Featured Projects
+
 
 <div align="center">
 
