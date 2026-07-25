@@ -107,13 +107,13 @@ HTML • CSS • JavaScript • C • Git • GitHub • VS Code
 
 Interactive anime showcase featuring smooth transitions and engaging UI.
 
-✨ Smooth animations
+- Smooth animations
 
-✨ Responsive design
+- Responsive design
 
-✨ Dynamic anime descriptions
+- Dynamic anime descriptions
 
-✨ Modern and clean interface
+- Modern and clean interface
 
 🔗 **Repository:** [View Project](YOUR_REPO_LINK)
 
