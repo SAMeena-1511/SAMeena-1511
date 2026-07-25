@@ -1,8 +1,8 @@
 <!-- Animated Header -->
 
-<h1 align="center" style="color:#blue;">
-Hi there, I'm Shamina Shaik
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=250&section=header&text=Shamina%20Shaik&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Web+Development+Enthusiast;Frontend+developer+intern;B.tech+AIML+student;" />
