@@ -1,7 +1,6 @@
 <!-- Animated Header -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=250&section=header&text=Hi%20There!%20I'm%20Shamina%20Shaik&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/Hi%20There!%20I'm%20Shamina%20Shaik-Frontend%20Developer-8B4513?style=for-the-badge"/>
 </p>
 
 <p align="center">
