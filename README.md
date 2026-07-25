@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
-<h1 align="center" style="color:#8B4513;">
-Hi 👋, I'm Shamina Shaik
+<h1 align="center" style="color:#blue;">
+Hi there, I'm Shamina Shaik
 </h1>
 
 <p align="center">
