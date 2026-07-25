@@ -1,109 +1,152 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shamina Shaik</h1>
 
-# Hi there! I'm Shamina Shaik 👋
+<h3 align="center">Frontend Developer | B.Tech CSE Student | Aspiring Software Engineer</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=yellow&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Frontend+Developer;Data+Analytics+Enthusiast;Passionate+Learner" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sameena151127@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-</div>
+<p align="center">
+  Passionate about Web Development and Data Analytics.
+  I enjoy building responsive web applications and learning new technologies.
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-> B.Tech CSE student passionate about Web Development and Data Analytics. I love crafting clean, responsive UI layouts and analyzing data to build practical solutions.
+🎓 B.Tech CSE Student
 
-* 🌐 **Frontend Focus:** HTML5, CSS3, JavaScript
-* 💻 **Core Programming:** C, Python, Java
-* 🎓 **Education:** B.Tech in CSE at *Samskruti College of Engineering and Technology* (2024–2028)
-* 💼 **Experience:** Frontend Developer Intern @ *GWING Software Technologies*
+💻 Frontend Developer
+
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- JavaScript
+- Frontend Development
+
+📊 Interested In:
+- Web Development
+- Data Analytics
+- Software Engineering
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:Sameena151127@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+</p>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-###                  **Frontend & Web Development**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</p>
+<p align="left">
 
-### **Programming Languages**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-### **Tools & Workflow**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt=" github " width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
 ---
 
 ## 💼 Experience
 
-### 🚀 Frontend Developer Intern — *GWING Software Technologies Pvt Ltd*
-`Aug 2024 – June 2025` · *Remote*
+### Frontend Developer Intern
+**GWING SOFTWARE TECHNOLOGIES PVT LTD**
 
-* 🎨 Designed and developed responsive web components: Contact Forms, E-commerce Product Cards, Navigation Bars, and Image Sliders using **HTML, CSS, and JavaScript**.
-* 🎮 Created mini-projects including a **To-Do List App** and an **Interactive Rock-Paper-Scissors Game**.
-* 🔀 Leveraged **Git & GitHub** for version control and project management.
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :---: | :---: |
-| 🎬 **Anime Image Slider**[cite: 1] | Interactive image slider with dynamic anime descriptions, clean typography, and smooth UI animations[cite: 1]. | `HTML` `CSS` `JS`[cite: 1] | [View Code ↗](#) |
-| 📝 **To-Do List App**[cite: 1] | Responsive task manager with add/delete task tracking, cross-browser support, and mobile optimization[cite: 1]. | `HTML` `CSS` `JS`[cite: 1] | [View Code ↗](#) |
+- Developed responsive web components
+- Built contact forms and navigation bars
+- Created e-commerce product cards
+- Developed Image Slider project
+- Developed To-Do List application
+- Used Git & GitHub for version control
 
 ---
 
-## 📜 Certifications & Education
+## 📂 Featured Projects
 
-* 📊 **Deloitte Data Analytics Job Simulation** — Worked on practical data analytics case studies, interpretation tasks, and problem-solving exercises[cite: 1].
-* 🎓 **B.Tech in Computer Science & Engineering** — Samskruti College of Engineering and Technology *(2024 – 2028)*[cite: 1] | **CGPA:** 8.0/10[cite: 1]
-* 🏫 **Intermediate (MPC)** — Vignana Bharathi Junior College *(2022 – 2024)*[cite: 1] | **Percentage:** 91%[cite: 1]
+### 🎌 Anime Image Slider
+
+Responsive image slider built using HTML, CSS and JavaScript.
+
+✨ Features:
+- Smooth animations
+- Interactive navigation
+- Anime descriptions
+- Responsive design
+
+🔗 Repository:
+```text
+Add Your GitHub Repository Link Here
+```
 
 ---
 
-## 📊 GitHub Analytics
+### ✅ To-Do List Application
 
-<div align="center">
+Task management application built using HTML, CSS and JavaScript.
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sameena151127&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameena151127&layout=compact&theme=tokyonight&hide=html,css"/>
+✨ Features:
+- Add tasks
+- Delete tasks
+- Manage completed tasks
+- Mobile responsive
 
-</div>
+🔗 Repository:
+```text
+Add Your GitHub Repository Link Here
+```
 
 ---
 
-<div align="center">
+## 📜 Certifications
 
-### 💡 Soft Skills
-`Communication`[cite: 1] • `Problem Solving`[cite: 1] • `Teamwork`[cite: 1] • `Time Management`[cite: 1] • `Eagerness to Learn`[cite: 1]
+🏆 Deloitte Data Analytics Job Simulation
 
-<br/>
+- Data Analysis
+- Problem Solving
+- Business Case Studies
 
-⭐️ *Thanks for stopping by! Feel free to check out my repositories.*
+---
 
-</div>
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+
+</p>
+
+---
+
+## 💻 Turning ideas into projects  
+📚 Learning beyond the classroom  
+🚀 Growing into the developer I aspire to become
+
+---
+
+⭐ Thanks for visiting my profile!
