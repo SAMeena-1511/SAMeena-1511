@@ -97,7 +97,7 @@ HTML • CSS • JavaScript • C • Git • GitHub • VS Code
 # ✨ Featured Projects
 
 
-<div align="center">
+<div align="left">
 
 ## 🎌 Anime Image Slider
 
