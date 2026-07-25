@@ -164,6 +164,7 @@ Fun browser-based game with interactive gameplay.
 ## 🏆 Achievements
 
 🥇 Deloitte Data Analytics Job Simulation
+📄 [View Certificate](https://go.fliplink.me/view/951D2F72-DB06-4EDD-9084-4130EFA3C0CA)
 
 📊 Data Analysis
 
