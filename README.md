@@ -88,9 +88,9 @@ HTML • CSS • JavaScript • C • Git • GitHub • VS Code
 
 ✔ Built contact forms and navigation bars
 
-✔ Worked with Git & GitHub
+✔ used Git & GitHub for version control
 
-✔ Developed multiple frontend projects
+✔ Developed Image Slider project & To-Do List application
 
 ---
 
