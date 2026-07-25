@@ -209,7 +209,7 @@ Fun browser-based game with interactive gameplay.
 
 🟡 Secure Internship Opportunities
 
-🟡 Crack Top Internship Opportunities
+🟡 explore new things
 
 ---
 
