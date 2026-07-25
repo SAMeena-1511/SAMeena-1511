@@ -7,7 +7,7 @@ Frontend Developer • B.Tech CSE Student • Future Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Web+Development+Enthusiast;Frontend+development+intern;B.tech+AIML+student;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Web+Development+Enthusiast;Frontend+developer+intern;B.tech+AIML+student;" />
 </p>
 
 ---
