@@ -176,11 +176,11 @@ Fun browser-based game with interactive gameplay.
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMeena-1511&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMeena-1511&theme=tokyonight" />
 </p>
 
 ## 🔥 Contribution Streak
