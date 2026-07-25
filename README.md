@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=250&section=header&text=Shamina%20Shaik&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=250&section=header&text=Hi%20There!%20I'm%20Shamina%20Shaik&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
