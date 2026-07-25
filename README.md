@@ -95,66 +95,71 @@ HTML • CSS • JavaScript • C • Git • GitHub • VS Code
 ---
 
 # ✨ Featured Projects
+# ✨ Featured Projects
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+## 🎌 Anime Image Slider
 
-### 🎌 Anime Image Slider
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-🟨 Interactive Anime Showcase
+Interactive anime showcase featuring smooth transitions and engaging UI.
 
-✅ HTML
+✨ Smooth animations
 
-✅ CSS
+✨ Responsive design
 
-✅ JavaScript
+✨ Dynamic anime descriptions
 
-✨ Features
+✨ Modern and clean interface
 
-• Smooth Animations
-
-• Responsive Design
-
-• Anime Descriptions
-
-• Modern UI
-
-🔗 Add Repository Link
-
-</td>
-
-<td width="50%">
-
-### ✅ To-Do List App
-
-🟨 Productivity Web Application
-
-✅ HTML
-
-✅ CSS
-
-✅ JavaScript
-
-✨ Features
-
-• Add Tasks
-
-• Delete Tasks
-
-• Manage Completed Tasks
-
-• Mobile Responsive
-
-🔗 Add Repository Link
-
-</td>
-
-</tr>
-</table>
+🔗 **Repository:** [View Project](YOUR_REPO_LINK)
 
 ---
+
+## ✅ To-Do List Application
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+A responsive task management application built for productivity.
+
+✨ Add and manage tasks
+
+✨ Delete completed tasks
+
+✨ Mobile-friendly layout
+
+✨ Cross-browser compatibility
+
+🔗 **Repository:** [View Project](YOUR_REPO_LINK)
+
+---
+
+## 🎮 Rock Paper Scissors Game
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+Fun browser-based game with interactive gameplay.
+
+✨ User vs Computer
+
+✨ Instant score updates
+
+✨ Responsive UI
+
+✨ Beginner-friendly JavaScript project
+
+🔗 **Repository:** [View Project](YOUR_REPO_LINK)
+
+</div>
+
+
 
 ## 🏆 Achievements
 
