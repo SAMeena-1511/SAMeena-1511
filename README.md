@@ -203,20 +203,32 @@ Fun browser-based game with interactive gameplay.
 
 ## 🎯 2026 Goals
 
-🟡 Master DSA
+🟡 Master Data structures & algorithms
 
-🟡 Build Full Stack Projects
+🟡 Build more frontend Projects
 
-🟡 Learn React
-
-🟡 Contribute to Open Source
+🟡 Secure Internship Opportunities
 
 🟡 Crack Top Internship Opportunities
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FFD700&style=for-the-badge" />
+</p>
 
+---
+
+<p align="center">
+🚀 Growing into the developer I aspire to become
+</p>
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
-
 </p>
