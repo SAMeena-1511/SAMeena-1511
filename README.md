@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-<img src="https://img.shields.io/badge/Hi%20There!%20I'm%20Shamina%20Shaik-Frontend%20Developer-8B4513?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Shamina+Shaik;Frontend+Developer;B.Tech+CSE+Student;Welcome+to+My+GitHub+Profile" />
 </p>
 
 <p align="center">
