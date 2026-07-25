@@ -1,10 +1,8 @@
 <!-- Animated Header -->
 
-<h1 align="center">Hi 👋, I'm Shamina Shaik</h1>
-
-<h3 align="center">
-Frontend Developer • B.Tech CSE Student • Future Software Engineer
-</h3>
+<h1 align="center">
+<font color="#8B4513">Hi 👋, I'm Shamina Shaik</font>
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Web+Development+Enthusiast;Frontend+developer+intern;B.tech+AIML+student;" />
