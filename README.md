@@ -127,13 +127,13 @@ Interactive anime showcase featuring smooth transitions and engaging UI.
 
 A responsive task management application built for productivity.
 
-✨ Add and manage tasks
+- Add and manage tasks
 
-✨ Delete completed tasks
+- Delete completed tasks
 
-✨ Mobile-friendly layout
+- Mobile-friendly layout
 
-✨ Cross-browser compatibility
+- Cross-browser compatibility
 
 🔗 **Repository:** [View Project](YOUR_REPO_LINK)
 
@@ -147,13 +147,13 @@ A responsive task management application built for productivity.
 
 Fun browser-based game with interactive gameplay.
 
-✨ User vs Computer
+- User vs Computer
 
-✨ Instant score updates
+- Instant score updates
 
-✨ Responsive UI
+- Responsive UI
 
-✨ Beginner-friendly JavaScript project
+- Beginner-friendly JavaScript project
 
 🔗 **Repository:** [View Project](YOUR_REPO_LINK)
 
