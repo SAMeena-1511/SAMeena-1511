@@ -115,7 +115,7 @@ Interactive anime showcase featuring smooth transitions and engaging UI.
 
 - Modern and clean interface
 
-🔗 **Repository:** [View Project](YOUR_REPO_LINK)
+🔗 **Repository:** [View Project](https://sameena-1511.github.io/image-slider/)
 
 ---
 
@@ -135,7 +135,7 @@ A responsive task management application built for productivity.
 
 - Cross-browser compatibility
 
-🔗 **Repository:** [View Project](YOUR_REPO_LINK)
+🔗 **Repository:** [View Project](https://sameena-1511.github.io/to-do-list-/)
 
 ---
 
@@ -155,7 +155,7 @@ Fun browser-based game with interactive gameplay.
 
 - Beginner-friendly JavaScript project
 
-🔗 **Repository:** [View Project](YOUR_REPO_LINK)
+🔗 **Repository:** [View Project](https://sameena-1511.github.io/rock-paper-scissor-game-/)
 
 </div>
 
