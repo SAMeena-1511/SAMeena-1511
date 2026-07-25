@@ -213,13 +213,6 @@ Fun browser-based game with interactive gameplay.
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FFD700&style=for-the-badge" />
-</p>
-
----
 
 <p align="center">
 🚀 Growing into the developer I aspire to become
