@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB6MzV2YzN4MDFxZ2J2MDRkMGVydWl0ZXBjYjNqY2d4NjI2NjY1NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-- B.Tech CSM Student
+✨ B.Tech CSM Student
 
 💻 Passionate Frontend Developer Intern
 
